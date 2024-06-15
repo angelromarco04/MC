@@ -1,8 +1,11 @@
 # MC
+> [!WARNING]
+> TODO
+---
 ## 1.12.2
-> !WARNING
+> [!WARNING]
 > TODO
 ## 1.19.2
-|  DATE   |   TAG   | DESCRIPTION |
+|  DATE   |   TAG   | Link |
 |---------|---------|-------------|
-| 2024-06 | FULLMOD | 
+| 2024-06 | FULLMOD | [Go!](./2024-06/)
