@@ -4,13 +4,13 @@ MC forge 1.19.2
 ## Mods
 ### Dependencies
 - [ ] citadel
-- [ ] TerraBlender (Forge)
+- [x] TerraBlender (Forge)
 - [ ] Curios API (Forge/NeoForge)
 - [ ] Balm (Forge Edition)
 - [ ] Sophisticated Core
 - [ ] Architectury API (Fabric/Forge/NeoForge)
 - [ ] FTB Library (Forge)
-- [ ] AutoRegLib
+- [x] AutoRegLib
 - [ ] Placebo
 - [ ] Bookshelf
 - [ ] Patchouli
@@ -18,42 +18,50 @@ MC forge 1.19.2
 - [ ] CreativeCore
 - [ ] Cloth Config API (Fabric/Forge/NeoForge)
 - [ ] Blueprint
-- [ ] YUNG's API (Forge)
+- [x] YUNG's API (Forge)
 - [ ] Kiwi 🥝 (Forge)
 - [ ] InsaneLib
 - [ ] Upgraded Core
+- [ ] Let's Do API
 
 ### Wordl Generation
-- [ ] Biomes O' Plenty
-- [ ] Terralith
+- [x] Biomes O' Plenty
+- [x] Terralith
 - [ ] Upgrade Aquatic [CHECK]
-- [ ] Environmental
 - [ ] BetterNether
+- [ ] Amplified Nether
 - [ ] Nullscape
 - [ ] Darker Depths
-- [ ] It Takes a Pillage
+- [x] It Takes a Pillage
+- [x] Quark
 
 ### Structures
-- [ ] When Dungeons Arise - Forge!
-- [ ] Dungeon Crawl
+- [x] When Dungeons Arise - Forge! [server]
+- [x] When Dungeons Arise - Seven Seas [server]
+- [ ] Dungeon Crawl [CHECK]
 - [ ] Waystones
-- [ ] Sky Villages (Forge)
+- [x] Sky Villages (Forge)
+- [ ] Sky Villages - Let's Do Candlelight Compat
+- [ ] Sky Villages - Let's Do Bakery Compat
+- [ ] Sky Villages - Let's Do Brewery Compat
+- [ ] Sky Villages - Let's Do Herbal Brews Compat
+- [ ] Sky Villages - Let's Do Vinery Compat
 - [ ] Sky Villages - Waystones Compat
+- [ ] Sky Villages - The Graveyard Compat [CHECK]
+- [ ] Sky Villages - Supplementaries Compat
 - [ ] YUNG's Better Dungeons (Forge)
 - [ ] YUNG's Better Jungle Temples (Forge)
 - [ ] YUNG's Better Mineshafts (Forge)
 - [ ] YUNG's Better Strongholds (Forge)
 - [ ] YUNG's Better Nether Fortresses (Forge)
 - [ ] YUNG's Better Ocean Monuments (Forge)
-- [ ] YUNG's Bridges (Forge)
+- [x] YUNG's Bridges (Forge)
 - [ ] YUNG's Better Desert Temples (Forge)
 - [ ] YUNG's Better Witch Huts (Forge)
-- [ ] YUNG's Extras (Forge)
-- [ ] Repurposed Structures (Neoforge/Forge)
-- [ ] Repurposed Structures - Better Nether Fortress Compat Datapack
-- [ ] Better Villages - Forge
-- [ ] Better Villages - Ice and Fire Compatibility [CHECK]
-- [ ] Structory
+- [x] YUNG's Extras (Forge)
+- [x] Repurposed Structures (Neoforge/Forge)
+- [x] Structory
+- [x] Structory: Towers
 
 ### Building
 - [ ] Functional Storage
@@ -63,15 +71,11 @@ MC forge 1.19.2
 - [ ] Woodworks
 
 ### Food & Vegetation
-- [ ] Farmer's Delight [!important]
-- [ ] Nether's Delight
-- [ ] Aether Delight (A Farmer's Delight Add-on) [CHECK]
-- [ ] Aquaculture Delight (A Farmer's Delight Add-on)
-- [ ] Frozen Delight (A Farmer's Delight Add-on)
-- [ ] Tinkers Delight (A Farmer's Delight Add-on) [CHECK]
-- [ ] Brewin' And Chewin'
-- [ ] Twilight's Flavors & Delight
-- [ ] Abnormals Delight
+- [ ] Let's Do Vinery
+- [ ] Let's Do Candlelight
+- [ ] Let's Do Brewery
+- [ ] Let's Do HerbalBrews
+- [ ] Let's Do Bakery
 - [ ] Botany Pots
 - [ ] Botany Pots Tiers
 - [ ] Botany Trees
@@ -93,6 +97,7 @@ MC forge 1.19.2
 - [ ] The Graveyard (FORGE/NEOFORGE) [CHECK]
 - [ ] The Graveyard - Terralith Compatability [CHECK]
 - [ ] Improved Mobs (Forge)
+- [ ] Friends&Foes [CHECK]
 
 
 ### Equipables
@@ -140,9 +145,9 @@ MC forge 1.19.2
 - [ ] Immersive Melodies (Fabric/Forge)
 - [ ] EvilCraft [CHECK]
 - [ ] RevampedWolf
-
+  
 ### Quality of life
-- [ ] Distant Horizons: A Level of Detail mod [!important]
+- [x] Distant Horizons: A Level of Detail mod [!important]
 - [ ] JEI
 - [ ] FTB Teams (Forge) [!important]
 - [ ] FTB Chunks (Forge) [!important]
@@ -156,8 +161,6 @@ MC forge 1.19.2
 - [ ] BetterF3
 - [ ] Mouse Tweaks
 - [ ] Crafting Tweaks
-- [ ] Zeta
-- [ ] Quark
 - [ ] Enchantment Descriptions
 - [ ] Fast Leaf Decay [server]
 - [ ] Toast Control
@@ -172,23 +175,22 @@ MC forge 1.19.2
 
 
 ### Optimizations
-- [ ] Oculus
-- [ ] Rubidium
-- [ ] Embeddium/Rubidium Extras
-- [ ] Embeddium/Rubidium Dynamic Lights
-- [ ] Starlight (Forge)
+- [x] Oculus
+- [x] Rubidium
+- [x] Embeddium/Rubidium Extras
+- [x] Embeddium/Rubidium Dynamic Lights
+- [x] Starlight (Forge)
 - [ ] Entity Culling Fabric/Forge
 - [ ] Clumps
 - [ ] FastSuite
 - [ ] FastWorkbench
 - [ ] FastFurnacev
-- [ ] AI Improvements
-- [ ] FerriteCore ((Neo)Forge)
-- [ ] Lazy DataFixerUpper(LazyDFU)
+- [ ] AI Improvements [server]
+- [x] FerriteCore ((Neo)Forge)
+- [x] Lazy DataFixerUpper(LazyDFU)
 - [ ] Connectivity(Forge/Fabric)
-- [ ] Cupboard
-- [ ] Entity Collision FPS Fix
-- [ ] ModernFix
+- [x] Entity Collision FPS Fix
+- [x] ModernFix
 - [ ] spark
 
 ### Bug fix
