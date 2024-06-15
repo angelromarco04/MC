@@ -56,17 +56,14 @@ MC forge 1.19.2
 - [ ] Structory
 
 ### Building
-- [ ] Storage Drawers
-- [ ] Storage Drawers: Biomes O' Plenty Pack
 - [ ] Functional Storage
-- [ ] Iron Chests
 - [ ] Sophisticated Storage
 - [ ] Decorative Blocks
-- [ ] Security Craft
+- [ ] Security Craft [!important]
 - [ ] Woodworks
 
 ### Food & Vegetation
-- [ ] Farmer's Delight
+- [ ] Farmer's Delight [!important]
 - [ ] Nether's Delight
 - [ ] Aether Delight (A Farmer's Delight Add-on) [CHECK]
 - [ ] Aquaculture Delight (A Farmer's Delight Add-on)
@@ -82,7 +79,7 @@ MC forge 1.19.2
 
 ### Mobs
 - [ ] Alex's Mobs
-- [ ] Ice and Fire: Dragons [CHECK]
+- [ ] Ice and Fire: Dragons [CHECK] [!important]
 - [ ] Mowzie's Mobs
 - [ ] Raided
 - [ ] Savage & Ravage
@@ -103,8 +100,8 @@ MC forge 1.19.2
 - [ ] Reliquary Reincarnations
 - [ ] Artifacts
 - [ ] Mantle
-- [ ] Tinkers Construct [CHECK]
-- [ ] Tinkers' Complement [CHECK]
+- [ ] Tinkers Construct [CHECK] [!important]
+- [ ] Tinkers' Complement
 - [ ] Tool Belt
 - [ ] Sewing Kit
 - [ ] Spartan Weaponry
@@ -112,16 +109,17 @@ MC forge 1.19.2
 - [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry [CHECK]
 - [ ] Upgraded Netherite : Spartan Weaponry
 - [ ] Spartan Weaponry: Twilight Forest
-- [ ] Upgraded Netherite
+- [ ] Upgraded Netherite [!important]
 - [ ] Upgraded Netherite : Aetherite [CHECK]
 - [ ] Upgraded Netherite : Ultimerite
 - [ ] Upgraded Netherite : Creativerite
 - [ ] Upgraded Netherite : Items
 - [ ] Advanced Combat (Revitalized)
+- [ ] Useless swords
 
 ### Dimensions
-- [ ] The Twilight Forest
-- [ ] The Aether [CHECK]
+- [ ] The Twilight Forest [!important]
+- [ ] The Aether [CHECK] [!important]
 
 ### Sounds
 - [ ] AmbientSounds 6
@@ -131,7 +129,7 @@ MC forge 1.19.2
 ### Miscelanea
 - [ ] OpenBlocks Elevator
 - [ ] Comforts (Fabric/Forge/Quilt)
-- [ ] Industrial Foregoing
+- [ ] Industrial Foregoing [!important]
 - [ ] Supplementaries
 - [ ] Aquaculture 2
 - [ ] XP Tome
@@ -144,10 +142,10 @@ MC forge 1.19.2
 - [ ] RevampedWolf
 
 ### Quality of life
-- [ ] Distant Horizons: A Level of Detail mod
+- [ ] Distant Horizons: A Level of Detail mod [!important]
 - [ ] JEI
-- [ ] FTB Teams (Forge)
-- [ ] FTB Chunks (Forge)
+- [ ] FTB Teams (Forge) [!important]
+- [ ] FTB Chunks (Forge) [!important]
 - [ ] FTB XMod Compat
 - [ ] FTB Essentials (Forge & Fabric)
 - [ ] Better Biome Blend [client]
@@ -170,6 +168,7 @@ MC forge 1.19.2
 - [ ] Overloaded Armor Bar
 - [ ] Elytra Slot (Fabric/Forge/Quilt)
 - [ ] Carry On
+- [ ] Simply Harvesting
 
 
 ### Optimizations
