@@ -26,8 +26,9 @@ MC forge 1.19.2
 
 ### Wordl Generation
 - [x] Biomes O' Plenty
-- [x] Terralith
-- [ ] Upgrade Aquatic [CHECK]
+- [x] Terralith [BORRAR]
+- [ ] Tectonic
+- [ ] Upgrade Aquatic
 - [ ] BetterNether
 - [ ] Amplified Nether
 - [ ] Nullscape
@@ -38,7 +39,7 @@ MC forge 1.19.2
 ### Structures
 - [x] When Dungeons Arise - Forge! [server]
 - [x] When Dungeons Arise - Seven Seas [server]
-- [ ] Dungeon Crawl [CHECK]
+- [ ] Dungeon Crawl
 - [ ] Waystones
 - [x] Sky Villages (Forge)
 - [ ] Sky Villages - Let's Do Candlelight Compat
@@ -62,6 +63,7 @@ MC forge 1.19.2
 - [x] Repurposed Structures (Neoforge/Forge)
 - [x] Structory
 - [x] Structory: Towers
+- [ ] ChoiceTheorem's Overhauled Village
 
 ### Building
 - [ ] Functional Storage
@@ -76,6 +78,8 @@ MC forge 1.19.2
 - [ ] Let's Do Brewery
 - [ ] Let's Do HerbalBrews
 - [ ] Let's Do Bakery
+- [ ] Pam's HarvestCraft 2 - Food Core
+- [ ] Pam's HarvestCraft 2 - Crops
 - [ ] Botany Pots
 - [ ] Botany Pots Tiers
 - [ ] Botany Trees
@@ -83,7 +87,7 @@ MC forge 1.19.2
 
 ### Mobs
 - [ ] Alex's Mobs
-- [ ] Ice and Fire: Dragons [CHECK] [!important]
+- [ ] Ice and Fire: Dragons [!important]
 - [ ] Mowzie's Mobs
 - [ ] Raided
 - [ ] Savage & Ravage
@@ -92,12 +96,11 @@ MC forge 1.19.2
 - [ ] Progressive Bosses
 - [ ] Creeper Overhaul
 - [ ] Frozen Up
-- [ ] Born in Chaos [CHECK]
+- [ ] Born in Chaos
 - [ ] Ender Zoology [Forge & Fabric]
-- [ ] The Graveyard (FORGE/NEOFORGE) [CHECK]
-- [ ] The Graveyard - Terralith Compatability [CHECK]
+- [ ] The Graveyard (FORGE/NEOFORGE)
 - [ ] Improved Mobs (Forge)
-- [ ] Friends&Foes [CHECK]
+- [ ] Friends&Foes
 
 
 ### Equipables
@@ -105,17 +108,17 @@ MC forge 1.19.2
 - [ ] Reliquary Reincarnations
 - [ ] Artifacts
 - [ ] Mantle
-- [ ] Tinkers Construct [CHECK] [!important]
+- [ ] Tinkers Construct [!important]
 - [ ] Tinkers' Complement
 - [ ] Tool Belt
 - [ ] Sewing Kit
 - [ ] Spartan Weaponry
 - [ ] Spartan Shields
-- [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry [CHECK]
+- [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry
 - [ ] Upgraded Netherite : Spartan Weaponry
 - [ ] Spartan Weaponry: Twilight Forest
 - [ ] Upgraded Netherite [!important]
-- [ ] Upgraded Netherite : Aetherite [CHECK]
+- [ ] Upgraded Netherite : Aetherite
 - [ ] Upgraded Netherite : Ultimerite
 - [ ] Upgraded Netherite : Creativerite
 - [ ] Upgraded Netherite : Items
@@ -124,7 +127,7 @@ MC forge 1.19.2
 
 ### Dimensions
 - [ ] The Twilight Forest [!important]
-- [ ] The Aether [CHECK] [!important]
+- [ ] The Aether [!important]
 
 ### Sounds
 - [ ] AmbientSounds 6
@@ -143,8 +146,16 @@ MC forge 1.19.2
 - [ ] Dark Paintings
 - [ ] Uppers
 - [ ] Immersive Melodies (Fabric/Forge)
-- [ ] EvilCraft [CHECK]
+- [ ] EvilCraft
 - [ ] RevampedWolf
+- [ ] NoCube's Villagers Sell Animals
+- [ ] NoCube's Better Fletching Table
+- [ ] NoCube's Better Blast Furnace
+- [ ] NoCube's Craftable Music Discs
+- [ ] NoCube's More Furnace Fuel
+- [ ] Enchantment Transfer (Fabric/Forge)
+
+
   
 ### Quality of life
 - [x] Distant Horizons: A Level of Detail mod [!important]
@@ -175,10 +186,8 @@ MC forge 1.19.2
 
 
 ### Optimizations
-- [x] Oculus
 - [x] Rubidium
 - [x] Embeddium/Rubidium Extras
-- [x] Embeddium/Rubidium Dynamic Lights
 - [x] Starlight (Forge)
 - [ ] Entity Culling Fabric/Forge
 - [ ] Clumps
@@ -192,6 +201,7 @@ MC forge 1.19.2
 - [x] Entity Collision FPS Fix
 - [x] ModernFix
 - [ ] spark
+- [ ] Chunk-Pregenerator
 
 ### Bug fix
 - [ ] Debugify
