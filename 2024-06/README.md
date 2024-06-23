@@ -25,14 +25,12 @@ MC forge 1.19.2
 - [x] FTB Library (Forge)
 - [x] AutoRegLib
 - [x] Placebo
-- [ ] Bookshelf
+- [x] Bookshelf
 - [ ] Patchouli
-- [ ] Titanium
 - [ ] CreativeCore
-- [ ] Cloth Config API (Fabric/Forge/NeoForge)
 - [x] Blueprint
 - [x] YUNG's API (Forge)
-- [ ] Kiwi 🥝 (Forge)
+- [x] Kiwi 🥝 (Forge)
 - [ ] InsaneLib
 - [ ] Upgraded Core
 - [ ] Let's Do API
@@ -41,14 +39,17 @@ MC forge 1.19.2
 - [x] geckolib3
 - [x] modonomicon
 - [x] Caelus API (Forge/NeoForge)
+- [x] Cyclops Core
+- [x] Titanium
+- [x] moonlight
 
 ### Wordl Generation
 - [x] Terralith [server]
 - [x] Tectonic [server]
 - [x] Upgrade Aquatic
-- [ ] BetterNether
-- [ ] Amplified Nether
-- [ ] Nullscape
+- [x] Incendium
+- [x] Amplified Nether
+- [x] Nullscape
 - [x] Darker Depths
 - [x] It Takes a Pillage
 - [x] Quark
@@ -57,7 +58,7 @@ MC forge 1.19.2
 - [x] When Dungeons Arise - Forge! [server]
 - [x] When Dungeons Arise - Seven Seas [server]
 - [x] Dungeon Crawl
-- [ ] Waystones
+- [x] Waystones
 - [x] YUNG's Better Dungeons (Forge)
 - [x] YUNG's Better Jungle Temples (Forge)
 - [x] YUNG's Better Mineshafts (Forge)
@@ -145,27 +146,25 @@ MC forge 1.19.2
 - [ ] Sound Physics Remastered
 
 
-### Miscelanea
-- [ ] OpenBlocks Elevator
-- [ ] Comforts (Fabric/Forge/Quilt)
-- [ ] Industrial Foregoing
-- [ ] Supplementaries
-- [ ] Aquaculture 2
-- [ ] XP Tome
-- [ ] Dark Utilities
-- [ ] Snow! Real Magic! ⛄ (Forge)
-- [ ] Dark Paintings
-- [ ] Uppers
-- [ ] Immersive Melodies (Fabric/Forge)
-- [ ] EvilCraft
-- [ ] RevampedWolf
-- [ ] NoCube's Villagers Sell Animals
-- [ ] NoCube's Better Fletching Table
-- [ ] NoCube's Better Blast Furnace
-- [ ] NoCube's Craftable Music Discs
-- [ ] NoCube's More Furnace Fuel
-- [ ] Enchantment Transfer (Fabric/Forge)
-- [x] Occultism [both]
+### Miscelanea [both]
+- [x] OpenBlocks Elevator
+- [x] Comforts (Fabric/Forge/Quilt)
+- [x] Industrial Foregoing
+- [x] Supplementaries [CHECK]
+- [x] Aquaculture 2
+- [x] XP Tome
+- [x] Snow! Real Magic! ⛄ (Forge)
+- [x] Dark Paintings
+- [x] Uppers
+- [x] Immersive Melodies (Fabric/Forge)
+- [x] EvilCraft
+- [x] RevampedWolf
+- [x] NoCube's Villagers Sell Animals
+- [x] NoCube's Craftable Music Discs
+- [x] NoCube's More Furnace Fuel
+- [x] Enchantment Transfer (Fabric/Forge)
+- [x] Occultism
+- [x] Common Capabilities
 
 
   
