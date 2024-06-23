@@ -1,78 +1,89 @@
 # MODLIST
 MC forge 1.19.2
 
+## DESCRIPTION
+- Distant Horizonts
+- +100 new mobs, dragons included.
+- Large impressive dungeons
+- Create teams and claim chunks.
+- Tools and armors above netherite.
+- Special equipables as rings, necklaces and hats.
+- Security, tech and magic mods.
+- Two new dimensions: Aether and Twilght Forest.
+- Improved Overworld, Nether and End.
+
+## IMPORTANT
+- /pregen start gen radius \<name\> {SQUARE / CIRCLE} \<x\> \<y\> \<radious\>
+
 ## Mods
 ### Dependencies
 - [ ] citadel
-- [x] TerraBlender (Forge)
-- [ ] Curios API (Forge/NeoForge)
-- [ ] Balm (Forge Edition)
+- [x] Curios API (Forge/NeoForge)
+- [x] Balm (Forge Edition)
 - [ ] Sophisticated Core
 - [ ] Architectury API (Fabric/Forge/NeoForge)
-- [ ] FTB Library (Forge)
+- [x] FTB Library (Forge)
 - [x] AutoRegLib
-- [ ] Placebo
+- [x] Placebo
 - [ ] Bookshelf
 - [ ] Patchouli
 - [ ] Titanium
 - [ ] CreativeCore
 - [ ] Cloth Config API (Fabric/Forge/NeoForge)
-- [ ] Blueprint
+- [x] Blueprint
 - [x] YUNG's API (Forge)
 - [ ] Kiwi 🥝 (Forge)
 - [ ] InsaneLib
 - [ ] Upgraded Core
 - [ ] Let's Do API
+- [x] Cupboard
+- [x] smartbrainlib
+- [x] geckolib3
+- [x] modonomicon
+- [x] Caelus API (Forge/NeoForge)
 
 ### Wordl Generation
-- [x] Biomes O' Plenty
-- [x] Terralith [BORRAR]
-- [ ] Tectonic
-- [ ] Upgrade Aquatic
+- [x] Terralith [server]
+- [x] Tectonic [server]
+- [x] Upgrade Aquatic
 - [ ] BetterNether
 - [ ] Amplified Nether
 - [ ] Nullscape
-- [ ] Darker Depths
+- [x] Darker Depths
 - [x] It Takes a Pillage
 - [x] Quark
 
 ### Structures
 - [x] When Dungeons Arise - Forge! [server]
 - [x] When Dungeons Arise - Seven Seas [server]
-- [ ] Dungeon Crawl
+- [x] Dungeon Crawl
 - [ ] Waystones
-- [x] Sky Villages (Forge)
-- [ ] Sky Villages - Let's Do Candlelight Compat
-- [ ] Sky Villages - Let's Do Bakery Compat
-- [ ] Sky Villages - Let's Do Brewery Compat
-- [ ] Sky Villages - Let's Do Herbal Brews Compat
-- [ ] Sky Villages - Let's Do Vinery Compat
-- [ ] Sky Villages - Waystones Compat
-- [ ] Sky Villages - The Graveyard Compat [CHECK]
-- [ ] Sky Villages - Supplementaries Compat
-- [ ] YUNG's Better Dungeons (Forge)
-- [ ] YUNG's Better Jungle Temples (Forge)
-- [ ] YUNG's Better Mineshafts (Forge)
-- [ ] YUNG's Better Strongholds (Forge)
-- [ ] YUNG's Better Nether Fortresses (Forge)
-- [ ] YUNG's Better Ocean Monuments (Forge)
+- [x] YUNG's Better Dungeons (Forge)
+- [x] YUNG's Better Jungle Temples (Forge)
+- [x] YUNG's Better Mineshafts (Forge)
+- [x] YUNG's Better Strongholds (Forge)
+- [x] YUNG's Better Nether Fortresses (Forge)
+- [x] YUNG's Better Ocean Monuments (Forge)
 - [x] YUNG's Bridges (Forge)
-- [ ] YUNG's Better Desert Temples (Forge)
-- [ ] YUNG's Better Witch Huts (Forge)
+- [x] YUNG's Better Desert Temples (Forge)
+- [x] YUNG's Better Witch Huts (Forge)
 - [x] YUNG's Extras (Forge)
-- [x] Repurposed Structures (Neoforge/Forge)
-- [x] Structory
-- [x] Structory: Towers
-- [ ] ChoiceTheorem's Overhauled Village
+- [x] Repurposed Structures (Neoforge/Forge) [server]
+- [x] Structory [server]
+- [x] Structory: Towers [server]
+- [x] ChoiceTheorem's Overhauled Village [server]
+- [ ] CTOV - Savage and Ravage Compat
+- [ ] CTOV - Friends and Foes compatibility pack
+- [ ] CTOV - Waystone Compatibility pack
 
-### Building
+### Building [both]
 - [ ] Functional Storage
 - [ ] Sophisticated Storage
 - [ ] Decorative Blocks
-- [ ] Security Craft [!important]
+- [ ] Security Craft
 - [ ] Woodworks
 
-### Food & Vegetation
+### Food & Vegetation [both]
 - [ ] Let's Do Vinery
 - [ ] Let's Do Candlelight
 - [ ] Let's Do Brewery
@@ -85,9 +96,9 @@ MC forge 1.19.2
 - [ ] Botany Trees
 - [ ] Botania
 
-### Mobs
+### Mobs [both]
 - [ ] Alex's Mobs
-- [ ] Ice and Fire: Dragons [!important]
+- [ ] Ice and Fire: Dragons
 - [ ] Mowzie's Mobs
 - [ ] Raided
 - [ ] Savage & Ravage
@@ -103,12 +114,12 @@ MC forge 1.19.2
 - [ ] Friends&Foes
 
 
-### Equipables
+### Equipables [both]
 - [ ] Sophisticated Backpacks
 - [ ] Reliquary Reincarnations
 - [ ] Artifacts
 - [ ] Mantle
-- [ ] Tinkers Construct [!important]
+- [ ] Tinkers Construct
 - [ ] Tinkers' Complement
 - [ ] Tool Belt
 - [ ] Sewing Kit
@@ -117,7 +128,7 @@ MC forge 1.19.2
 - [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry
 - [ ] Upgraded Netherite : Spartan Weaponry
 - [ ] Spartan Weaponry: Twilight Forest
-- [ ] Upgraded Netherite [!important]
+- [ ] Upgraded Netherite
 - [ ] Upgraded Netherite : Aetherite
 - [ ] Upgraded Netherite : Ultimerite
 - [ ] Upgraded Netherite : Creativerite
@@ -126,8 +137,8 @@ MC forge 1.19.2
 - [ ] Useless swords
 
 ### Dimensions
-- [ ] The Twilight Forest [!important]
-- [ ] The Aether [!important]
+- [ ] The Twilight Forest
+- [ ] The Aether
 
 ### Sounds
 - [ ] AmbientSounds 6
@@ -137,7 +148,7 @@ MC forge 1.19.2
 ### Miscelanea
 - [ ] OpenBlocks Elevator
 - [ ] Comforts (Fabric/Forge/Quilt)
-- [ ] Industrial Foregoing [!important]
+- [ ] Industrial Foregoing
 - [ ] Supplementaries
 - [ ] Aquaculture 2
 - [ ] XP Tome
@@ -154,60 +165,54 @@ MC forge 1.19.2
 - [ ] NoCube's Craftable Music Discs
 - [ ] NoCube's More Furnace Fuel
 - [ ] Enchantment Transfer (Fabric/Forge)
+- [x] Occultism [both]
 
 
   
 ### Quality of life
-- [x] Distant Horizons: A Level of Detail mod [!important]
-- [ ] JEI
-- [ ] FTB Teams (Forge) [!important]
-- [ ] FTB Chunks (Forge) [!important]
-- [ ] FTB XMod Compat
-- [ ] FTB Essentials (Forge & Fabric)
-- [ ] Better Biome Blend [client]
-- [ ] SwingThroughGrass
-- [ ] Xaero's Minimap
-- [ ] Xaero's World Map
-- [ ] AppleSkin
-- [ ] BetterF3
-- [ ] Mouse Tweaks
-- [ ] Crafting Tweaks
-- [ ] Enchantment Descriptions
-- [ ] Fast Leaf Decay [server]
-- [ ] Toast Control
-- [ ] Cosmetic Armor Reworked
-- [ ] Polymorph (Fabric/Forge/Quilt)
-- [ ] Jade
-- [ ] TrashSlot
-- [ ] Overloaded Armor Bar
-- [ ] Elytra Slot (Fabric/Forge/Quilt)
-- [ ] Carry On
-- [ ] Simply Harvesting
+- [x] Distant Horizons: A Level of Detail mod [client] [CHECK supplementaries]
+- [x] JEI [both]
+- [x] FTB Teams (Forge) [both]
+- [x] FTB Chunks (Forge) [both]
+- [x] FTB XMod Compat [both]
+- [x] SwingThroughGrass [client]
+- [x] AppleSkin
+- [x] Mouse Tweaks [client]
+- [x] Crafting Tweaks [both]
+- [x] Enchantment Descriptions [client]
+- [x] Enchanted Book Redesign [client]
+- [x] Fast Leaf Decay [server]
+- [x] Toast Control [client]
+- [x] Cosmetic Armor Reworked [both]
+- [x] Jade
+- [x] Jade Addons (Forge)
+- [x] TrashSlot [both]
+- [x] Overloaded Armor Bar [client?] [CHECK]
+- [x] Elytra Slot (Fabric/Forge/Quilt) [both]
+- [x] Carry On [both]
+- [x] Simply Harvesting [both]
 
 
 ### Optimizations
-- [x] Rubidium
-- [x] Embeddium/Rubidium Extras
-- [x] Starlight (Forge)
-- [ ] Entity Culling Fabric/Forge
-- [ ] Clumps
-- [ ] FastSuite
-- [ ] FastWorkbench
-- [ ] FastFurnacev
-- [ ] AI Improvements [server]
+- [x] Rubidium [client]
+- [x] Embeddium/Rubidium Extras [client]
+- [x] Starlight (Forge) [both]
+- [x] Entity Culling Fabric/Forge [client]
+- [x] Clumps [server]
+- [x] FastSuite [server]
+- [x] FastWorkbench [server]
+- [x] FastFurnace [server]
+- [x] AI Improvements [server]
 - [x] FerriteCore ((Neo)Forge)
-- [x] Lazy DataFixerUpper(LazyDFU)
-- [ ] Connectivity(Forge/Fabric)
-- [x] Entity Collision FPS Fix
-- [x] ModernFix
-- [ ] spark
-- [ ] Chunk-Pregenerator
+- [x] Lazy DataFixerUpper(LazyDFU) [both]
+- [x] Connectivity(Forge/Fabric) [both]
+- [x] Entity Collision FPS Fix [client]
+- [x] ModernFix [both]
+- [x] Chunk-Pregenerator [server]
 
 ### Bug fix
-- [ ] Debugify
-- [ ] NetherPortalFix
-- [ ] AntiGhost
-- [ ] AttributeFix
-- [ ] Not Enough Crashes (Forge)
-- [ ] Better Compatibility Checker
-- [ ] Login Protection(Forge/Fabric)
+- [x] NetherPortalFix [server]
+- [x] AntiGhost [client]
+- [x] AttributeFix [both]
+- [x] Better Compatibility Checker [both]
+- [x] Login Protection(Forge/Fabric) [server]
