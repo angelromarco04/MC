@@ -53,6 +53,7 @@ MC forge 1.19.2
 - [x] Darker Depths
 - [x] It Takes a Pillage
 - [x] Quark
+- [ ] Alex's Caves
 
 ### Structures
 - [x] When Dungeons Arise - Forge! [server]
@@ -81,6 +82,7 @@ MC forge 1.19.2
 - [ ] Functional Storage
 - [ ] Sophisticated Storage
 - [ ] Decorative Blocks
+- [ ] Fantasy's Furniture
 - [ ] Security Craft
 - [ ] Woodworks
 
@@ -104,15 +106,16 @@ MC forge 1.19.2
 - [ ] Raided
 - [ ] Savage & Ravage
 - [ ] Goblin Traders
-- [ ] AtomicStryker's Infernal Mobs
 - [ ] Progressive Bosses
 - [ ] Creeper Overhaul
 - [ ] Frozen Up
 - [ ] Born in Chaos
 - [ ] Ender Zoology [Forge & Fabric]
 - [ ] The Graveyard (FORGE/NEOFORGE)
-- [ ] Improved Mobs (Forge)
 - [ ] Friends&Foes
+- [ ] Nyf's Spiders
+- [ ] Stalker Creepers
+- [ ] Rotten Creatures
 
 
 ### Equipables [both]
@@ -126,6 +129,7 @@ MC forge 1.19.2
 - [ ] Sewing Kit
 - [ ] Spartan Weaponry
 - [ ] Spartan Shields
+- [ ] Immersive Armors (Fabric/Forge)
 - [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry
 - [ ] Upgraded Netherite : Spartan Weaponry
 - [ ] Spartan Weaponry: Twilight Forest
@@ -144,6 +148,7 @@ MC forge 1.19.2
 ### Sounds
 - [ ] AmbientSounds 6
 - [ ] Sound Physics Remastered
+- [ ] Quality Sounds
 
 
 ### Miscelanea [both]
@@ -165,6 +170,9 @@ MC forge 1.19.2
 - [x] Enchantment Transfer (Fabric/Forge)
 - [x] Occultism
 - [x] Common Capabilities
+- [x] Storage Labels
+- [x] GraveStone Mod
+- [x] Pretty Pipes
 
 
   
@@ -190,12 +198,13 @@ MC forge 1.19.2
 - [x] Elytra Slot (Fabric/Forge/Quilt) [both]
 - [x] Carry On [both]
 - [x] Simply Harvesting [both]
+- [ ] Lucky's Spelunker's Charm II
 
 
 ### Optimizations
 - [x] Rubidium [client]
 - [x] Embeddium/Rubidium Extras [client]
-- [x] Starlight (Forge) [both]
+- [x] Embeddium/Rubidium Dynamic Lights
 - [x] Entity Culling Fabric/Forge [client]
 - [x] Clumps [server]
 - [x] FastSuite [server]
