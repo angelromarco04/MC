@@ -20,7 +20,7 @@ MC forge 1.19.2
 - [ ] citadel
 - [x] Curios API (Forge/NeoForge)
 - [x] Balm (Forge Edition)
-- [ ] Sophisticated Core
+- [x] Sophisticated Core
 - [ ] Architectury API (Fabric/Forge/NeoForge)
 - [x] FTB Library (Forge)
 - [x] AutoRegLib
@@ -32,7 +32,7 @@ MC forge 1.19.2
 - [x] YUNG's API (Forge)
 - [x] Kiwi 🥝 (Forge)
 - [ ] InsaneLib
-- [ ] Upgraded Core
+- [x] Upgraded Core
 - [ ] Let's Do API
 - [x] Cupboard
 - [x] smartbrainlib
@@ -119,27 +119,18 @@ MC forge 1.19.2
 
 
 ### Equipables [both]
-- [ ] Sophisticated Backpacks
-- [ ] Reliquary Reincarnations
-- [ ] Artifacts
-- [ ] Mantle
-- [ ] Tinkers Construct
-- [ ] Tinkers' Complement
-- [ ] Tool Belt
-- [ ] Sewing Kit
-- [ ] Spartan Weaponry
-- [ ] Spartan Shields
-- [ ] Immersive Armors (Fabric/Forge)
-- [ ] Animated And Emissive: Ice and Fire and Spartan Weaponry
-- [ ] Upgraded Netherite : Spartan Weaponry
-- [ ] Spartan Weaponry: Twilight Forest
-- [ ] Upgraded Netherite
-- [ ] Upgraded Netherite : Aetherite
-- [ ] Upgraded Netherite : Ultimerite
-- [ ] Upgraded Netherite : Creativerite
-- [ ] Upgraded Netherite : Items
-- [ ] Advanced Combat (Revitalized)
-- [ ] Useless swords
+- [x] Sophisticated Backpacks
+- [x] Reliquary Reincarnations
+- [x] Artifacts
+- [x] Tool Belt
+- [x] Sewing Kit
+- [x] Shield Expansion
+- [x] Immersive Armors (Fabric/Forge)
+- [x] Upgraded Netherite
+- [x] Upgraded Netherite : Ultimerite
+- [x] Upgraded Netherite : Items
+- [x] Advanced Combat (Revitalized)
+- [x] Useless swords
 
 ### Dimensions
 - [x] The Twilight Forest
@@ -198,7 +189,7 @@ MC forge 1.19.2
 - [x] Elytra Slot (Fabric/Forge/Quilt) [both]
 - [x] Carry On [both]
 - [x] Simply Harvesting [both]
-- [ ] Lucky's Spelunker's Charm II
+- [x] Lucky's Spelunker's Charm II
 
 
 ### Optimizations
