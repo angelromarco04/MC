@@ -27,7 +27,7 @@ MC forge 1.19.2
 - [x] Placebo
 - [x] Bookshelf
 - [ ] Patchouli
-- [ ] CreativeCore
+- [x] CreativeCore
 - [x] Blueprint
 - [x] YUNG's API (Forge)
 - [x] Kiwi 🥝 (Forge)
@@ -42,6 +42,7 @@ MC forge 1.19.2
 - [x] Cyclops Core
 - [x] Titanium
 - [x] moonlight
+- [x] Cloth Config API
 
 ### Wordl Generation
 - [x] Terralith [server]
@@ -53,7 +54,6 @@ MC forge 1.19.2
 - [x] Darker Depths
 - [x] It Takes a Pillage
 - [x] Quark
-- [ ] Alex's Caves
 
 ### Structures
 - [x] When Dungeons Arise - Forge! [server]
@@ -142,13 +142,13 @@ MC forge 1.19.2
 - [ ] Useless swords
 
 ### Dimensions
-- [ ] The Twilight Forest
-- [ ] The Aether
+- [x] The Twilight Forest
+- [x] The Aether
 
 ### Sounds
-- [ ] AmbientSounds 6
-- [ ] Sound Physics Remastered
-- [ ] Quality Sounds
+- [x] AmbientSounds 6 [client]
+- [x] Sound Physics Remastered [client]
+- [x] Quality Sounds [client]
 
 
 ### Miscelanea [both]
