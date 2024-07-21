@@ -17,7 +17,7 @@ MC forge 1.19.2
 
 ## Mods
 ### Dependencies
-- [ ] citadel
+- [x] citadel
 - [x] Curios API (Forge/NeoForge)
 - [x] Balm (Forge Edition)
 - [x] Sophisticated Core
@@ -43,6 +43,8 @@ MC forge 1.19.2
 - [x] Titanium
 - [x] moonlight
 - [x] Cloth Config API
+- [x] puzzleslib
+- [ ] resourcefulconfige
 
 ### Wordl Generation
 - [x] Terralith [server]
@@ -71,12 +73,14 @@ MC forge 1.19.2
 - [x] YUNG's Better Witch Huts (Forge)
 - [x] YUNG's Extras (Forge)
 - [x] Repurposed Structures (Neoforge/Forge) [server]
+- [x] Repurposed Structures - Savage & Ravage Compat Datapack
 - [x] Structory [server]
 - [x] Structory: Towers [server]
 - [x] ChoiceTheorem's Overhauled Village [server]
-- [ ] CTOV - Savage and Ravage Compat
-- [ ] CTOV - Friends and Foes compatibility pack
+- [x] CTOV - Savage and Ravage Compat
+- [x] CTOV - Friends and Foes compatibility pack
 - [ ] CTOV - Waystone Compatibility pack
+- [x] Villages&Pillages
 
 ### Building [both]
 - [ ] Functional Storage
@@ -100,22 +104,20 @@ MC forge 1.19.2
 - [ ] Botania
 
 ### Mobs [both]
-- [ ] Alex's Mobs
-- [ ] Ice and Fire: Dragons
-- [ ] Mowzie's Mobs
-- [ ] Raided
-- [ ] Savage & Ravage
-- [ ] Goblin Traders
-- [ ] Progressive Bosses
-- [ ] Creeper Overhaul
-- [ ] Frozen Up
-- [ ] Born in Chaos
-- [ ] Ender Zoology [Forge & Fabric]
-- [ ] The Graveyard (FORGE/NEOFORGE)
-- [ ] Friends&Foes
-- [ ] Nyf's Spiders
-- [ ] Stalker Creepers
-- [ ] Rotten Creatures
+- [x] Alex's Mobs
+- [x] Ice and Fire: Dragons
+- [x] Mowzie's Mobs
+- [x] Raided
+- [x] Savage & Ravage
+- [x] Goblin Traders
+- [x] Creeper Overhaul
+- [x] Frozen Up
+- [x] Born in Chaos
+- [x] Ender Zoology (Forge & Fabric)
+- [x] The Graveyard (FORGE/NEOFORGE)
+- [x] Friends&Foes
+- [x] Environmental Creepers [server]
+- [x] Rotten Creatures
 
 
 ### Equipables [both]
@@ -164,6 +166,7 @@ MC forge 1.19.2
 - [x] Storage Labels
 - [x] GraveStone Mod
 - [x] Pretty Pipes
+- [x] Falling leaves
 
 
   
