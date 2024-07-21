@@ -15,25 +15,25 @@ MC forge 1.19.2
 ## IMPORTANT
 - /pregen start gen radius \<name\> {SQUARE / CIRCLE} \<x\> \<y\> \<radious\>
 
-## Mods
+<details>
+<summary><h2>Mods</h2></summary>
 ### Dependencies
 - [x] citadel
 - [x] Curios API (Forge/NeoForge)
 - [x] Balm (Forge Edition)
 - [x] Sophisticated Core
-- [ ] Architectury API (Fabric/Forge/NeoForge)
+- [x] Architectury API (Fabric/Forge/NeoForge)
 - [x] FTB Library (Forge)
 - [x] AutoRegLib
 - [x] Placebo
 - [x] Bookshelf
-- [ ] Patchouli
+- [x] Patchouli
 - [x] CreativeCore
 - [x] Blueprint
 - [x] YUNG's API (Forge)
 - [x] Kiwi 🥝 (Forge)
-- [ ] InsaneLib
 - [x] Upgraded Core
-- [ ] Let's Do API
+- [x] Let's Do API
 - [x] Cupboard
 - [x] smartbrainlib
 - [x] geckolib3
@@ -44,7 +44,7 @@ MC forge 1.19.2
 - [x] moonlight
 - [x] Cloth Config API
 - [x] puzzleslib
-- [ ] resourcefulconfige
+- [x] resourcefulconfige
 
 ### Wordl Generation
 - [x] Terralith [server]
@@ -79,29 +79,28 @@ MC forge 1.19.2
 - [x] ChoiceTheorem's Overhauled Village [server]
 - [x] CTOV - Savage and Ravage Compat
 - [x] CTOV - Friends and Foes compatibility pack
-- [ ] CTOV - Waystone Compatibility pack
+- [x] CTOV - Waystone Compatibility pack
 - [x] Villages&Pillages
 
 ### Building [both]
-- [ ] Functional Storage
-- [ ] Sophisticated Storage
-- [ ] Decorative Blocks
-- [ ] Fantasy's Furniture
-- [ ] Security Craft
-- [ ] Woodworks
+- [x] Functional Storage
+- [x] Sophisticated Storage
+- [x] Decorative Blocks
+- [x] Fantasy's Furniture
+- [x] Security Craft
+- [x] Woodworks
 
 ### Food & Vegetation [both]
-- [ ] Let's Do Vinery
-- [ ] Let's Do Candlelight
-- [ ] Let's Do Brewery
-- [ ] Let's Do HerbalBrews
-- [ ] Let's Do Bakery
-- [ ] Pam's HarvestCraft 2 - Food Core
-- [ ] Pam's HarvestCraft 2 - Crops
-- [ ] Botany Pots
-- [ ] Botany Pots Tiers
-- [ ] Botany Trees
-- [ ] Botania
+- [x] Let's Do Vinery
+- [x] Let's Do Candlelight
+- [x] Let's Do Bakery
+- [x] Pam's HarvestCraft 2 - Food Core
+- [x] Pam's HarvestCraft 2 - Trees
+- [x] Pam's HarvestCraft 2 - Crops
+- [x] Botany Pots
+- [x] Botany Pots Tiers
+- [x] Botany Trees
+- [x] Botania
 
 ### Mobs [both]
 - [x] Alex's Mobs
@@ -211,10 +210,13 @@ MC forge 1.19.2
 - [x] Entity Collision FPS Fix [client]
 - [x] ModernFix [both]
 - [x] Chunk-Pregenerator [server]
-
+- [x] Paxi (Forge)
+  
 ### Bug fix
 - [x] NetherPortalFix [server]
 - [x] AntiGhost [client]
 - [x] AttributeFix [both]
 - [x] Better Compatibility Checker [both]
 - [x] Login Protection(Forge/Fabric) [server]
+
+</details>
