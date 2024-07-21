@@ -1,5 +1,6 @@
 # MODLIST
 MC forge 1.19.2
+See: [MODLIST](https://github.com/angelromarco04/MC/blob/main/2024-06/MODS.md)
 
 ## DESCRIPTION
 - Distant Horizonts
@@ -33,6 +34,7 @@ MC forge 1.19.2
    6. Haga click derecho sobre "client.zip" y selecione 7-zip > Extraer aquí
 
 4. **Jugar a minecraft con mods**
+
 
 ## IMPORTANT
 - /pregen start gen radius \<name\> {SQUARE / CIRCLE} \<x\> \<y\> \<radious\>
