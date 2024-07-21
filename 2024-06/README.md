@@ -17,6 +17,7 @@ MC forge 1.19.2
 
 <details>
 <summary><h2>Mods</h2></summary>
+
 ### Dependencies
 - [x] citadel
 - [x] Curios API (Forge/NeoForge)
